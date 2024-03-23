@@ -131,7 +131,7 @@ export function Home() {
       </View>
 
       <FlatList 
-          style={styles.list}
+          
           showsVerticalScrollIndicator =  {false} 
           showsHorizontalScrollIndicator = {false}
           data={users}
